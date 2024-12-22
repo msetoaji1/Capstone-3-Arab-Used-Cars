@@ -92,5 +92,4 @@ Jika ada pertanyaan atau ingin berdiskusi, jangan ragu untuk menghubungi saya!
 
 ---
 
-### ⭐ Jika proyek ini bermanfaat, jangan lupa untuk beri bintang! :)
 
